@@ -5,6 +5,7 @@ export default defineConfig({
     lang: 'en-US',
     title: 'VitePress',
     description: 'Vite & Vue powered static site generator.',
+    base: '/dcomb-vitepress-template/',
 
     lastUpdated: true,
     cleanUrls: 'without-subfolders',
