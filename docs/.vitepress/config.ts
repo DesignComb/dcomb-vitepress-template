@@ -86,7 +86,7 @@ function sidebarGuide() {
             text: '404',
             collapsible: true,
             items: [
-                {text: '404', link: '/'},
+                {text: '404', link: '/404'},
             ]
         },
     ]
